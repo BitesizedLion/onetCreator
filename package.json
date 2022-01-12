@@ -1,0 +1,24 @@
+{
+  "name": "onetcreator",
+  "version": "1.0.0",
+  "description": "[![Maintained](https://img.shields.io/maintenance/yes/2021?style=for-the-badge)]()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitesizedLion/onetCreator.git"
+  },
+  "author": "Lumulus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitesizedLion/onetCreator/issues"
+  },
+  "homepage": "https://github.com/BitesizedLion/onetCreator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "faker": "^5.5.3",
+    "md5": "^2.3.0"
+  }
+}
